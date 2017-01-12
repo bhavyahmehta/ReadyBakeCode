@@ -1,0 +1,81 @@
+{
+  "foodItems": [
+    {
+      "id": 1,
+      "title": "Apple",
+      "thumbImage": "apple-tree-1610345_640.jpg",
+      "fullImage": "apple-tree-1610345_640.jpg",
+      "description": "The apple tree (Malus pumila, commonly and erroneously called Malus domestica) is a deciduous tree in the rose family best known for its sweet, pomaceous fruit, the apple. It is cultivated worldwide as a fruit tree, and is the most widely grown species in the genus Malus. The tree originated in Central Asia, where its wild ancestor, Malus sieversii, is still found today. Apples have been grown for thousands of years in Asia and Europe, and were brought to North America by European colonists. Apples have religious and mythological significance in many cultures, including Norse, Greek and European Christian traditions."
+    },
+    {
+      "id": 2,
+      "title": "Banana",
+      "thumbImage": "bananas-571542_640.jpg",
+      "fullImage": "bananas-571542_640.jpg",
+      "description": "The banana is an edible fruit, botanically a berry,[1][2] produced by several kinds of large herbaceous flowering plants in the genus Musa.[3] In some countries, bananas used for cooking may be called plantains. The fruit is variable in size, color and firmness, but is usually elongated and curved, with soft flesh rich in starch covered with a rind which may be green, yellow, red, purple, or brown when ripe. The fruits grow in clusters hanging from the top of the plant. Almost all modern edible parthenocarpic (seedless) bananas come from two wild species – Musa acuminata and Musa balbisiana. The scientific names of most cultivated bananas are Musa acuminata, Musa balbisiana, and Musa × paradisiaca for the hybrid Musa acuminata × M. balbisiana, depending on their genomic constitution. The old scientific name Musa sapientum is no longer used."
+    },
+    {
+      "id": 3,
+      "title": "strawberry",
+      "thumbImage": "berry-197078_640.jpg",
+      "fullImage": "berry-197078_640.jpg",
+      "description": "The garden strawberry (or simply strawberry; Fragaria × ananassa)[1] is a widely grown hybrid species of the genus Fragaria (collectively known as the strawberries). It is cultivated worldwide for its fruit. The fruit (which is not a botanical berry, but an aggregate accessory fruit) is widely appreciated for its characteristic aroma, bright red color, juicy texture, and sweetness. It is consumed in large quantities, either fresh or in such prepared foods as preserves, fruit juice, pies, ice creams, milkshakes, and chocolates. Artificial strawberry flavorings and aromas are also widely used in many products like lip gloss, candy, hand sanitizers, perfume, and many others."
+    },
+    {
+      "id": 4,
+      "title": "Bread",
+      "thumbImage": "bread-1494947_640.jpg",
+      "fullImage": "bread-1494947_640.jpg",
+      "description": "The garden strawberry (or simply strawberry; Fragaria × ananassa)[1] is a widely grown hybrid species of the genus Fragaria (collectively known as the strawberries). It is cultivated worldwide for its fruit. The fruit (which is not a botanical berry, but an aggregate accessory fruit) is widely appreciated for its characteristic aroma, bright red color, juicy texture, and sweetness. It is consumed in large quantities, either fresh or in such prepared foods as preserves, fruit juice, pies, ice creams, milkshakes, and chocolates. Artificial strawberry flavorings and aromas are also widely used in many products like lip gloss, candy, hand sanitizers, perfume, and many others."
+    },
+    {
+      "id": 5,
+      "title": "Cabbage",
+      "thumbImage": "cabbage-976496_640.jpg",
+      "fullImage": "cabbage-976496_640.jpg",
+      "description": "Cabbage or headed cabbage (comprising several cultivars of Brassica oleracea) is a leafy green or purple biennial plant, grown as an annual vegetable crop for its dense-leaved heads. It is descended from the wild cabbage, B. oleracea var. oleracea, and is closely related to broccoli and cauliflower (var. botrytis), brussels sprouts (var. gemmifera) and savoy cabbage (var. sabauda). Cabbage heads generally range from 0.5 to 4 kilograms (1 to 9 lb), and can be green, purple and white. Smooth-leafed firm-headed green cabbages are the most common, with smooth-leafed red and crinkle-leafed savoy cabbages of both colors seen more rarely. It is a multi-layered vegetable. Under conditions of long sunlit days such as are found at high northern latitudes in summer, cabbages can grow much larger. Some records are discussed at the end of the history section."
+    },
+    {
+      "id": 6,
+      "title": "Cabbage",
+      "thumbImage": "cabbage-976496_640.jpg",
+      "fullImage": "cabbage-976496_640.jpg",
+      "description": "Cabbage or headed cabbage (comprising several cultivars of Brassica oleracea) is a leafy green or purple biennial plant, grown as an annual vegetable crop for its dense-leaved heads. It is descended from the wild cabbage, B. oleracea var. oleracea, and is closely related to broccoli and cauliflower (var. botrytis), brussels sprouts (var. gemmifera) and savoy cabbage (var. sabauda). Cabbage heads generally range from 0.5 to 4 kilograms (1 to 9 lb), and can be green, purple and white. Smooth-leafed firm-headed green cabbages are the most common, with smooth-leafed red and crinkle-leafed savoy cabbages of both colors seen more rarely. It is a multi-layered vegetable. Under conditions of long sunlit days such as are found at high northern latitudes in summer, cabbages can grow much larger. Some records are discussed at the end of the history section."
+    },
+    {
+      "id": 7,
+      "title": "CupCake",
+      "thumbImage": "cakes-996507_640.jpg",
+      "fullImage": "cakes-996507_640.jpg",
+      "description": "A cupcake (also British English: fairy cake; Hiberno English: bun; Australian English: fairy cake or patty cake) is a small cake designed to serve one person, which may be baked in a small thin paper or aluminum cup. As with larger cakes, icing and other cake decorations, such as candy, may be applied."
+    },
+    {
+      "id": 8,
+      "title": "Carrot",
+      "thumbImage": "carrots-874981_640.jpg",
+      "fullImage": "carrots-874981_640.jpg",
+      "description": "The carrot (Daucus carota subsp. sativus) is a root vegetable, usually orange in colour, though purple, black, red, white, and yellow varieties exist. Carrots are a domesticated form of the wild carrot Daucus carota, native to both Europe and southwestern Asia. The plant probably originated in Persia and was originally cultivated for its leaves and seeds. Nowadays, the most commonly eaten part of the plant is the taproot, although the greens are sometimes eaten as well. The domestic carrot has been selectively bred for its greatly enlarged and more palatable, less woody-textured taproot."
+    },
+    {
+      "id": 9,
+      "title": "Tea",
+      "thumbImage": "chai-975685_640.jpg",
+      "fullImage": "chai-975685_640.jpg",
+      "description": "Tea is an aromatic beverage commonly prepared by pouring hot or boiling water over cured leaves of the Camellia sinensis, an evergreen shrub native to Asia.[3] After water, it is the most widely consumed drink in the world.[4] There are many different types of tea; some teas, like Darjeeling and Chinese greens, have a cooling, slightly bitter, and astringent flavour,[5] while others have vastly different profiles that include sweet, nutty, floral or grassy notes."
+    },
+    {
+      "id": 10,
+      "title": "Chilli",
+      "thumbImage": "chilli-831039_640.jpg",
+      "fullImage": "chilli-831039_640.jpg",
+      "description": "The chili pepper (also chile pepper or chilli pepper, from Nahuatl chīlli [ˈt͡ʃiːli]) is the fruit of plants from the genus Capsicum, members of the nightshade family, Solanaceae.[1] In Australia, Britain, India,[2] Ireland, New Zealand, Pakistan, South Africa and in other Asian countries, it is usually known simply as chilli.  The substances that give chili peppers their intensity when ingested or applied topically are capsaicin and several related chemicals, collectively called capsaicinoids.  Chili peppers originated in the Americas.[3] After the Columbian Exchange, many cultivars of chili pepper spread across the world, used in both food and medicine. Chilies were brought to Asia by Portuguese navigators during the 16th century.  Worldwide, some 3.8 million hectares (about 9.4 million acres) of land produce 33 million tons of chili peppers (2010 data). India is the world's biggest producer, consumer and exporter of chili peppers.[4] Guntur in the South Indian state of Andhra Pradesh produces 30% of all the chilies produced in India.[5] Andhra Pradesh as a whole contributes 75% of India's chili exports."
+    },
+    {
+      "id": 11,
+      "title": "Corn",
+      "thumbImage": "corn-1605664_640.jpg",
+      "fullImage": "corn-1605664_640.jpg",
+      "description": "Maize (/ˈmeɪz/ mayz; Zea mays subsp. mays, from Spanish: maíz after Taíno mahiz), also known as corn, is a large grain plant first domesticated by indigenous peoples in Mexico[1] about 10,000 years ago. The six major types of corn are dent corn, flint corn, pod corn, popcorn, flour corn, and sweet corn.[2]  The leafy stalk of the plant produces separate pollen and ovuliferous inflorescences or ears, which are fruits, yielding kernels (often erroneously called seeds). Maize kernels are often used in cooking as a starch."
+    }
+  ]
+}
