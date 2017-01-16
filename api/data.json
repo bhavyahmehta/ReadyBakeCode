@@ -1,5 +1,4 @@
-{
-  "foodItems": [
+[
     {
       "id": 1,
       "title": "Apple",
@@ -78,4 +77,3 @@
       "description": "Maize (/ˈmeɪz/ mayz; Zea mays subsp. mays, from Spanish: maíz after Taíno mahiz), also known as corn, is a large grain plant first domesticated by indigenous peoples in Mexico[1] about 10,000 years ago. The six major types of corn are dent corn, flint corn, pod corn, popcorn, flour corn, and sweet corn.[2]  The leafy stalk of the plant produces separate pollen and ovuliferous inflorescences or ears, which are fruits, yielding kernels (often erroneously called seeds). Maize kernels are often used in cooking as a starch."
     }
   ]
-}
